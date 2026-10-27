@@ -1,0 +1,10 @@
+metric,count,percentage
+Total records processed,1250,100.0
+Records with missing values,81,6.48
+Invalid emails,50,4.0
+Invalid phones,26,2.08
+Invalid websites,12,0.96
+Invalid dates,11,0.88
+Rows involved in exact duplicates,50,4.0
+Rows involved in repeated email addresses,100,8.0
+Records requiring review,99,7.92
